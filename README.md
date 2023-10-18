@@ -22,7 +22,8 @@ TODO: Describe what is your application about.
 
 ### How to run it
 
-TODO: Describe exact steps which needs to be done to run your application locally.
+TODO: Describe exact steps which needs to be done to run your application locally.  
+  
 For example:
 #### To run backend do
 1. `cd backend` and run `npm install`
